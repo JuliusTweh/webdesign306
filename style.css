@@ -1,0 +1,44 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(136,136,136,1.00) 27.46%,rgba(253,251,251,1.00) 59.59%,rgba(11,11,11,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(136,136,136,1.00) 27.46%,rgba(253,251,251,1.00) 59.59%,rgba(11,11,11,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(136,136,136,1.00) 27.46%,rgba(253,251,251,1.00) 59.59%,rgba(11,11,11,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(136,136,136,1.00) 27.46%,rgba(253,251,251,1.00) 59.59%,rgba(11,11,11,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(118,115,115,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(118,115,115,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(118,115,115,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(118,115,115,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #F18F13;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #F89210;
+}
+#accordion1 .card #headingOne1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(34,34,34,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(34,34,34,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(34,34,34,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(34,34,34,1.00) 100%);
+}
+#accordion1 .card #collapseTwo1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(228,222,222,1.00) 0%,rgba(223,31,31,1.00) 34.72%,rgba(15,14,14,1.00) 53.89%,rgba(10,10,10,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(228,222,222,1.00) 0%,rgba(223,31,31,1.00) 34.72%,rgba(15,14,14,1.00) 53.89%,rgba(10,10,10,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(228,222,222,1.00) 0%,rgba(223,31,31,1.00) 34.72%,rgba(15,14,14,1.00) 53.89%,rgba(10,10,10,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(228,222,222,1.00) 0%,rgba(223,31,31,1.00) 34.72%,rgba(15,14,14,1.00) 53.89%,rgba(10,10,10,1.00) 100%);
+    background-color: #000000;
+}
+.container-fluid .container footer {
+    color: #F8EFEF;
+}
+
+#accordion1 .card #collapseThree1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(6,6,6,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(6,6,6,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(6,6,6,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(6,6,6,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-color: #000000;
+}
